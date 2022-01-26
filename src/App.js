@@ -105,6 +105,13 @@ const projectsSet = [
     client: "MR Badero",
     environment: "Mobile App, React Native",
   },
+  {
+    from: "DEC 2021",
+    to: "JAN 2022",
+    title: "HUE BANKING APP",
+    client: "MR Salisu",
+    environment: "Mobile App, React Native",
+  },
 ];
 
 const loadSkills = () => {
