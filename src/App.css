@@ -55,7 +55,7 @@ body {
   height: auto;
 }
 .container {
-  width: 60%;
+  width: 65%;
   margin: auto;
   padding: 40px;
 }
@@ -67,7 +67,7 @@ body {
 .left {
   background-color: #000099;
   padding: 20px;
-  width: 35%;
+  width: 38%;
 }
 
 .right {
@@ -283,4 +283,17 @@ td {
 }
 tr :nth-child(even) {
   background-color: #000099;
+}
+a {
+color: white;
+text-decoration: none;
+}
+a:hover{
+  color:#771179;
+}
+.certificationTitle{
+  font-weight: 700;
+}
+ul li{
+  margin-left: 10;
 }
